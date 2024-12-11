@@ -17,7 +17,7 @@ A modern, interactive 3D portfolio built using [Three.js](https://threejs.org/),
 
 - **Frontend**: React, Three.js
 - **Email Integration**: EmailJS
-- **Styling**: CSS3, TailwindCSS (or your preferred styling library)
+- **Styling**: TailwindCSS 
 - **Other Tools**: React-Spring (or GSAP for animations)
 
 ---
