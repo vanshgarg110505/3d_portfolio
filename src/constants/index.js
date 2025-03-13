@@ -169,9 +169,9 @@ export const projects = [
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com/adrianhajdin/threads',
+        name: 'RideSync - Real-Time Cab Booking Platform',
+        description: 'Built a ride-hailing app with user registration, ride booking, driver management, real-time tracking, and Google Maps integration.',
+        link: 'https://github.com/vanshgarg110505/carpooling-MERN',
     },
     {
         iconUrl: car,
