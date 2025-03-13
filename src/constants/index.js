@@ -169,7 +169,7 @@ export const projects = [
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'RideSync - Real-Time Cab Booking Platform',
+        name: 'RideSync - Cab Booking Platform',
         description: 'Built a ride-hailing app with user registration, ride booking, driver management, real-time tracking, and Google Maps integration.',
         link: 'https://github.com/vanshgarg110505/carpooling-MERN',
     },
