@@ -167,18 +167,18 @@ export const projects = [
         link: 'https://github.com/vanshgarg110505/ecommerce',
     },
     {
-        iconUrl: threads,
+        iconUrl: car,
         theme: 'btn-back-green',
         name: 'RideSync - Cab Booking Platform',
         description: 'Built a ride-hailing app with user registration, ride booking, driver management, real-time tracking, and Google Maps integration.',
         link: 'https://github.com/vanshgarg110505/carpooling-MERN',
     },
     {
-        iconUrl: car,
+        iconUrl: threads,
         theme: 'btn-back-blue',
-        name: 'Car Finding App',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        name: 'Expense Tracker',
+        description: 'Expense Tracker is a powerful MERN stack application designed to simplify financial management. With intuitive dashboards, detailed analytics, and easy data export.',
+        link: 'https://github.com/vanshgarg110505/Expense-Tracker',
     },
     {
         iconUrl: snapgram,
@@ -197,8 +197,8 @@ export const projects = [
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
-        name: 'AI Summarizer Application',
-        description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
+        name: 'Remote Interview Platform',
+        description: 'Our Remote Interview Platform, built with Next.js, streamlines the process of conducting technical and non-technical interviews remotely',
+        link: 'https://github.com/vanshgarg110505/remote-interview-platform',
     }
 ];
