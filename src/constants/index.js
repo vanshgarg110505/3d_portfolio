@@ -60,6 +60,13 @@ export const projects = [
         link: 'https://github.com/vanshgarg110505/carpooling-MERN',
     },
     {
+        iconUrl: summiz,
+        theme: 'btn-back-yellow',
+        name: 'AI Mock Interview',
+        description: 'AI-powered mock interview platform that helps job seekers practice interviews. Built with React, TypeScript, and Google\'s Generative AI',
+        link: 'https://github.com/vanshgarg110505/ai_mock_interview',
+    },
+    {
         iconUrl: threads,
         theme: 'btn-back-blue',
         name: 'Expense Tracker',
